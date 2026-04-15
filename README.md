@@ -37,7 +37,6 @@ This project demonstrates a deployed **Cowrie SSH honeypot** used to capture and
 - Password tried: `b'watson`
 - Authentication: **Accepted (simulated by honeypot)**
 
-> Cowrie allows fake authentication to observe attacker behavior.
 
 ---
 
@@ -88,8 +87,6 @@ If no valuable data is found, session ends quickly.
 
 ---
 
-## 📸 Evidence
-(Add your screenshot of Cowrie logs here)
 
 ---
 
